@@ -7,7 +7,7 @@
 
 ---
 ### About Me  
-Hi, my name is Sung Yu, but you can just call me Alan. I’m an international student from Taiwan and recently graduated from Loyola University Chicago with a degree in Computer Science. Before switching to CS, I majored in Mechanical Engineering in Taiwan, which gives me a unique perspective when tackling technical challenges. Currently, I’m on the lookout for internship opportunities across the U.S. and am excited to dive into new fields and learn as much as I can.  
+Hi, my name is Sung Yu, but you can just call me Alan. I’m an international student from Taiwan and recently graduated from Loyola University Chicago with a degree in Computer Science. Before switching to CS, I majored in Mechanical Engineering in Taiwan, which gives me a unique perspective when tackling technical challenges. Currently, I’m on the lookout for job opportunities across the U.S. and am excited to dive into new fields and learn as much as I can.  
 
 ---
 ### EDUCATION
