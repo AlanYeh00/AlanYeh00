@@ -7,7 +7,7 @@
 
 ---
 ### About Me  
-Hi, my name is Sung Yu, but you can just call me Alan. I’m an international student from Taiwan and recently graduated from Loyola University Chicago with a degree in Computer Science. Before switching to CS, I majored in Mechanical Engineering in Taiwan, which gives me a unique perspective when tackling technical challenges. Currently, I’m on the lookout for job opportunities across the U.S. and am excited to dive into new fields and learn as much as I can.  
+Hi, my name is Sung Yu. I recently graduated from Loyola University Chicago with a degree in Computer Science. I have extensive experience in firmware development, software engineering, and product design. During my undergraduate studies, I worked with servo motor tuning, software development, and mechanical product design. In my master's program, I developed projects involving real-time operating systems, further enhancing my expertise. These experiences have strengthened my skills in firmware development, I/O configuration, and data processing. I believe my background makes me well-suited to contribute to the development of firmware, software, and product design. I am excited to dive into new fields and learn as much as I can.  
 
 ---
 ### EDUCATION
@@ -87,6 +87,10 @@ Hi, my name is Sung Yu, but you can just call me Alan. I’m an international st
     ● Performed wiring independently, including three servo motors, one PLC, all limit switches, and the human-machine interface (HMI).
     ● Tuned Delta servo motor parameters (e.g., electronic gear ratio), design the HMI, and test the machine's repeat positioning accuracy.
 
+ Four-bar linkage robotic arm
+
+    ● Calculate the number of pulses the PLC needs to output based on the resolution of the three stepper motors.
+    ● Input the pulse signal with PLC into the stepper motor driver to control the stepper motor
 
 
 ---
