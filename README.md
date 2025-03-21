@@ -43,11 +43,13 @@ Hi, my name is Sung Yu, but you can just call me Alan. I’m an international st
   INTAI TECHNOLOGY	  	Taiwan
 
   
-    ●	Led medical implant design projects ensuring ISO 13485 and ISO 14971 compliance and coordinated manufacturing processes.
-    ●	Conducted biomedical market research to develop advanced peripheral equipment for medical implants, driving product innovation.
-    ●	Implementing the six major procedures of ISO 13485 design: Design Requirements, Design Inputs, Design Outputs, Design Verification, Design Validation, and Design Transfer.
-    ●	Using SolidWorks and CAD software for product design requires an understanding of salt spray testing, tensile testing, sandblasting, passivation, titanium anodizing, turning, milling, welding, laser engraving, and related processes.
+    ●	Laid out and created 2D and 3D drawings using SolidWorks and AutoCAD. Processing included salt spray testing, tensile testing, sandblasting,   
+      passivation, titanium anodizing, turning, milling, welding, and laser engraving.
+    ●	Led design projects to ensure compliance with ISO 13485 and ISO 14971, including Design Requirements, Design Inputs, Design Outputs, Design 
+      Verification, Design Validation, and Design Transfer.
+    ●	Conducted market research to develop peripheral equipment for medical implants, driving product innovation.
     ●	Improve product issues based on FMEA analysis and document them.
+
   
   
   Purchasing Buyer	Mar 2018 – Apr 2020
@@ -72,7 +74,19 @@ Hi, my name is Sung Yu, but you can just call me Alan. I’m an international st
   Electronic Health Record Database system (EHRDB) | SQL
 
     ● Developed a comprehensive system for managing patient data, medical records, and tasks.
-    ● Key features include comprehensive patient records, efficient appointment scheduling, streamlined insurance management, encounter tracking, provider information, and billing and coding
+    ● Key features include comprehensive patient records, efficient appointment scheduling, streamlined insurance management, encounter tracking, provider 
+      information, and billing and coding
+
+  Comparative Analysis of Sensor Performance using ESP32-S2 Microchip Board | C++
+
+    ● Used the Arduino framework to implement program on ESP32-S2 along with DFRobot libraries to interface with the sensor.
+    ● Collected data and pushed it to ThingSpeak for simultaneous online and offline data analysis
+
+  Three-axis CNC machining center | Delta motors,
+
+    ● Performed wiring independently, including three servo motors, one PLC, all limit switches, and the human-machine interface (HMI).
+    ● Tuned Delta servo motor parameters (e.g., electronic gear ratio), design the HMI, and test the machine's repeat positioning accuracy.
+
 
 
 ---
